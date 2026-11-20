@@ -15,7 +15,7 @@ I design and deploy logic-driven business automation pipelines that connect LLMs
 ### Featured Projects
 - **[AI Lead Qualification & Automated Triage System](https://github.com/nelsonadetomiwa-create/AI-LEAD-QUALIFICATION-N8N)** — End-to-end B2B/FMCG lead scoring and CRM sync pipeline built with **n8n**, **Groq LLM (`openai/gpt-oss-20b`)**, **Google Sheets**, and **Gmail OAuth2**. Features a two-stage regex pre-validation gate to conserve tokens, a strict 11-field JSON schema parser, human-in-the-loop Gmail draft generation, and `SplitInBatches` rate-limit protection.
 - **[AI Language Translation Web App](https://github.com/nelsonadetomiwa-create/CodeAlpha_LanguageTranslationTool)** — Interactive translation tool with Text-to-Speech built using **Python** and **Streamlit**.
-- **[Docker Workspace](https://github.com/nelsonadetomiwa-create/docker-workspace)** — Containerized environments and self-hosted automation setups.
+
 
 ---
 
